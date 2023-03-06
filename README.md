@@ -1,6 +1,6 @@
 # Predmet Chen (chengongpp)
 
-A n~~ext-generation cloud native distributed serverless continuous progressive responsive agile devops SOA microservices~~ infrastructure developer & infosec researcher in Hangzhou.
+A n~~ext-generation cloud native distributed scalable performant serverless continuous progressive responsive agile scrum devops devsecops SOA microservices~~ infrastructure developer & infosec engineer in Hangzhou.
 
 在杭州的基础软件工程师，偶尔整点安全。
 
