@@ -8,10 +8,9 @@ Just keep the network connected and keep those services simple, straight, fast, 
 
 I write `["c", "java", "python", "golang", "rust"]` or whatever.
 
-I use distros such as `["windows", "opensuse", "rocky", "archlinux"]` or whatever.
+I use distros such as `["windows", "opensuse", "rocky", "archlinux"]` or whateve
 
 …wait, why did `calc.exe` pop up on my desktop
 
 - blog: <https://predmet.ch>
 - X: <https://x.com/predmetch>
-- telegram: <https://t.me/prdm1>
