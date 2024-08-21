@@ -8,9 +8,24 @@ Just keep the network connected and keep those services simple, straight, fast, 
 
 I write `["c", "java", "python", "golang", "rust"]` or whatever.
 
-I use distros such as `["windows", "opensuse", "rocky", "archlinux"]` or whateve
+I use distros such as `["windows", "opensuse", "rocky", "archlinux"]` or whatev
 
 …wait, why did `calc.exe` pop up on my desktop
 
 - blog: <https://predmet.ch>
 - X: <https://x.com/predmetch>
+
+## Badges
+
+- 全国网络安全行业职业技能大赛一等奖 #3 of National Cyber Security Skills Competition 2023
+- 浙江省金融五一劳动奖章 Zhejiang May 1st Labor Medal of Finance
+
+## Certificates
+
+- OSWA
+- OSDA
+- CISP
+- PMP
+- CCRC信息安全管理体系审核员 CCRC-ISMS
+- 翻译专业资格（英语三级笔译） CATTI Level-3 English Translator
+- 软考信息安全工程师（中级） Qualification of Computer and Software Professional (InfoSec Engineer)
