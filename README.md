@@ -8,7 +8,7 @@ Just keep the network connected and keep those services simple, straight, fast, 
 
 I write `["c", "java", "python", "golang", "rust"]` or whatever.
 
-I use distros such as `["windows", "opensuse", "rocky", "archlinux"]` or whatev
+I use distros like `["windows", "opensuse", "rocky", "archlinux"]` or whatev
 
 …wait, why did `calc.exe` pop up on my desktop
 
@@ -24,8 +24,9 @@ I use distros such as `["windows", "opensuse", "rocky", "archlinux"]` or whatev
 
 - OSWA
 - OSDA
+- OSWP
 - CISP
 - PMP
-- CCRC信息安全管理体系审核员 CCRC-ISMS
+- CCRC信息安全管理体系审核员 CCRC ISMS Auditor
 - 翻译专业资格（英语三级笔译） CATTI Level-3 English Translator
 - 软考信息安全工程师（中级） Qualification of Computer and Software Professional (InfoSec Engineer)
