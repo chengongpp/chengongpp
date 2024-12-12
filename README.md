@@ -14,17 +14,19 @@ I use distros like `["windows", "opensuse", "rocky", "archlinux"]` or whatev
 
 - blog: <https://predmet.ch>
 - X: <https://x.com/predmetch>
+- Telegram Channel: <https://t.me/prdm_thoughts>
 
 ## Badges
 
 - 全国网络安全行业职业技能大赛一等奖 #3 of National Cyber Security Skills Competition 2023
 - 浙江省金融五一劳动奖章 Zhejiang May 1st Labor Medal of Finance
+- 浙江省网络安全运维工程师职业技能竞赛二等奖 #3 of Zhejiang SecOps Skills Competition 2024
 
 ## Certificates
 
-- OSWA
-- OSDA
-- OSWP
+- OSEP/OSWE
+- OSCP+
+- OSWA/OSDA/OSWP
 - CISP
 - PMP
 - CCRC信息安全管理体系审核员 CCRC ISMS Auditor
